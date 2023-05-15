@@ -1,0 +1,32 @@
+body{
+    font-family: $font-family;
+    
+    header{
+        background-image: url("../img/9cd45d3e17e1d5bb3777cf48cbaf6374.jpg");
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        
+    
+
+        
+        .navbar--black{
+            background-color: $primary-color;
+             transition: 2s;
+
+             a{
+                color: $color-font;
+             }
+           
+ 
+        
+           
+               
+               
+                
+            }
+        }
+
+    }

@@ -1,3 +1,19 @@
-
+body {
+  font-family: "Barrio", cursive;
+}
+body header {
+  background-image: url("../img/9cd45d3e17e1d5bb3777cf48cbaf6374.jpg");
+  height: 200px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body header .navbar--black {
+  background-color: rgba(180, 5, 113, 0.979);
+  transition: 2s;
+}
+body header .navbar--black a {
+  color: rgb(255, 255, 255);
+}
 
 /*# sourceMappingURL=style.css.map */
